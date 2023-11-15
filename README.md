@@ -39,4 +39,9 @@ git clone https://github.com/Shnd3r/russian-travel.git
 ## Чеклист:
 - [Чеклист](https://code.s3.yandex.net/web-developer/checklists-pdf/new-program/checklist-3.pdf)
   
-2023© Шнайдер Данила
+## Автор
+
+**Данила Шнайдер**
+
+- E-mail: [d.shnder@gmail.com](mailto:d.shnder@gmail.com)
+- Telegram: [@shnd3r](https://t.me/shnd3r)
