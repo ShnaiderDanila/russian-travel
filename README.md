@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Проект:+"Russian+travel")](https://git.io/typing-svg)
 Создан в рамках учебы в [Яндекс.Практикум](https://practicum.yandex.ru/) на факультете ["Веб-разработчик"](https://practicum.yandex.ru/web/)
 
-![Russian-travel](https://github.com/Shnd3r/russian-travel/assets/116545792/35622527-578b-49ae-8b53-1e77bc1324b2)
+![russian-travel](https://github.com/ShnaiderDanila/russian-travel/assets/116545792/54591418-cb25-45da-a065-b5a17cad1028)
 
 ## Описание проекта:
 "Russian travel" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе было применено построение сложных сеток c использованием технологии Grid Layout и Flexbox и раcширенные возможности HTML5 и CSS3. 
@@ -46,4 +46,4 @@ git clone https://github.com/Shnd3r/russian-travel.git
 **Данила Шнайдер**
 
 - E-mail: [d.shnder@gmail.com](mailto:d.shnder@gmail.com)
-- Telegram: [@shnd3r](https://t.me/shnd3r)
+- Telegram: [@shnaider_danila](https://t.me/shnaider_danila)
