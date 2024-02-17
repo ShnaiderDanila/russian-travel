@@ -6,7 +6,7 @@
 ## Описание проекта:
 "Russian travel" - это типовой однастраничный сайт про российский внутренний туризм. В проектной работе было применено построение сложных сеток c использованием технологии Grid Layout и Flexbox и раcширенные возможности HTML5 и CSS3. 
 
-[Ссылка на проект - GitHub Pages](https://shnd3r.github.io/russian-travel/)
+[Ссылка на проект](https://shnaiderdanila.github.io/russian-travel/)
 
 ## Функционал:
 - Адаптивный дизайн
